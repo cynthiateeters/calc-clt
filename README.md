@@ -23,7 +23,7 @@ This project requires [Node.js](https://nodejs.org/) to be installed on your sys
 1.  Install as a devDependencies:
 
     ```bash
-    npm install --save-dev
+    npm install @cynthiateeters/calculator --save-dev
     ```
 
 
